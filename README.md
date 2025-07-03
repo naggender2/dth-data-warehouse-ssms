@@ -24,7 +24,6 @@ DTH providers face challenges in managing and analyzing fragmented data from sub
 - Personalized content recommendations
 - Operational and financial reporting
 
----
 
 ## Features
 
@@ -91,7 +90,6 @@ DTH providers face challenges in managing and analyzing fragmented data from sub
 - **Ad Effectiveness:** Engagement lift by ad type
 - **Subscription Trends:** Monthly roll-ups and retention cohorts
 
----
 
 ## Setup Instructions
 
