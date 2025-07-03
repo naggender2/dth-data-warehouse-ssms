@@ -2,7 +2,6 @@
 
 A comprehensive data warehouse and analytics platform for Direct-to-Home (DTH) service providers, built for SQL Server Management Studio (SSMS). This repository contains all SQL scripts, sample data, and documentation needed to set up, populate, and analyze a DTH analytics warehouse.
 
----
 
 ## Table of Contents
 
@@ -15,7 +14,6 @@ A comprehensive data warehouse and analytics platform for Direct-to-Home (DTH) s
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 
----
 
 ## Project Overview
 
@@ -37,7 +35,6 @@ DTH providers face challenges in managing and analyzing fragmented data from sub
 - **Visual Documentation:** Diagrams and schema images are provided in the `DWdiagrams` folder.
 
 
----
 
 ## Why This Project?
 
@@ -46,7 +43,6 @@ DTH providers face challenges in managing and analyzing fragmented data from sub
 - **Improve Operational Efficiency:** Unified reporting for marketing, finance, and service teams.
 - **Drive Revenue Growth:** Enable cross-sell, upsell, and dynamic pricing based on real usage data.
 
----
 
 ## Architecture
 
@@ -55,7 +51,6 @@ DTH providers face challenges in managing and analyzing fragmented data from sub
 - **Aggregated Tables:** Populated using SQL ETL logic after base tables are loaded.
 - **Visualization:** Diagrams and schema images in `DWdiagrams`.
 
----
 
 ## Data Model
 
@@ -85,7 +80,6 @@ DTH providers face challenges in managing and analyzing fragmented data from sub
 | Monthly_aggregate_fact       | Pre-computed monthly metrics                |
 | Series_monthly_aggregate_fact| Series-level monthly engagement             |
 
----
 
 ## Key Analytics & Reports
 
@@ -121,7 +115,6 @@ DTH providers face challenges in managing and analyzing fragmented data from sub
 6. **Visualize Schema and Analytics**
    - Refer to images in the `DWdiagrams` folder for schema diagrams and information package visuals.
 
----
 
 ## Usage
 
@@ -129,4 +122,3 @@ DTH providers face challenges in managing and analyzing fragmented data from sub
 - **Build Dashboards:** Connect BI tools (e.g., Power BI, Tableau) to your SQL Server database for visualization.
 - **Customize:** Extend the data model or queries as per your requirements.
 
----
